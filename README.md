@@ -20,8 +20,31 @@
     <img alt="Python" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="25" />
 </p>
 
+
 - 📫 How to reach me:       Mail me at @giriteja94495@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giriteja94495&hide=contribs,prs)
+
+<hr>
+
+<div>
+ <div>
+ When I get the code run without any errors , this is what i do
+  
+  
+  ![cat_nodding](https://user-images.githubusercontent.com/51397347/134005090-7c691e6f-64a1-45e0-8510-c1d1797e3658.gif)
+
+  
+ </div>
+ 
+  <div>
+   When I'm clueless about the error while i run the code, this is what i do
+
+![200](https://user-images.githubusercontent.com/51397347/134004133-6d5a66f8-dba5-4194-abae-8269be4f658c.gif)
+ </div>
+ </div>
+
+
+
 
 
