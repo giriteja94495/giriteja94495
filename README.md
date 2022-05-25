@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 <p>Welcome to my page! </br> I'm Bille Giriteja, Software Developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ2-zTtwlJ0h1KloIQMpfy1Bzv3fVrogyW4poebrg2RUDhF3eLwIGhVc1rfRx2t7DcHQ&usqp=CAU" width="13"/> <b>Bangalore,India</b>, currently living in <b>AndhraPradesh,India</b>. </p>
 <h3>Things I code with</h3>
 <p>
@@ -48,10 +48,10 @@
 
 
 
- -->
+
  
  
- <h1 align="center">Hi 👋, I'm BILLE Giriteja</h1>
+<!--  <h1 align="center">Hi 👋, I'm BILLE Giriteja</h1>
 <h3 align="center">Full Stack developer and also a android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giriteja94495&label=Profile%20views&color=0e75b6&style=flat" alt="giriteja94495" /> </p>
@@ -84,3 +84,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giriteja94495&show_icons=true&locale=en&layout=compact" alt="giriteja94495" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giriteja94495&show_icons=true&locale=en" alt="giriteja94495" /></p>
+ -->
