@@ -23,7 +23,7 @@
 
 - 📫 How to reach me:       Mail me at @giriteja94495@gmail.com
 
-![Giriteja's GitHub stats](https://github-readme-stats.vercel.app/api?username=giriteja94495&hide=contribs,prs)
+![Giriteja's GitHub stats](https://github-readme-stats.vercel.app/api?username=giriteja94495,prs)
 
 <hr>
 
